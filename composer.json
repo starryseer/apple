@@ -1,0 +1,19 @@
+{
+    "name": "starryseer\/apple",
+    "description": "a extension of easyswoole on apple pay",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "starryseer",
+            "email": "850812313@qq.com"
+        }
+    ],
+    "require": {
+        "griffinledingham/php-apple-signin": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Starryseer\\Apple\\": "src"
+        }
+    }
+}
