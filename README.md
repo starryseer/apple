@@ -1,4 +1,4 @@
-<h1 align="center"> apppay </h1>
+<h1 align="center"> apple </h1>
 
 <p align="center"> 基于easyswoole的苹果集成组件，包含了苹果登录和苹果支付.</p>
 
