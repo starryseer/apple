@@ -3,8 +3,8 @@
 
 namespace Starryseer\Apple\Utility;
 
-use AppleSignIn\Vendor\JWK;
-use AppleSignIn\Vendor\JWT;
+use Firebase\JWT\JWT;
+use Firebase\JWT\JWK;
 
 class AppleToken
 {
